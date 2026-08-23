@@ -1,7 +1,7 @@
 <div align="center">
 
   # Hi, I'm Akshay K S 👋
-  ### Senior Business & Data Analyst • Insurance Analytics & Supply Chain
+  ### Senior Business & Data Analyst • Insurance Analytics & International Logistics and Supply Chain
 
   [![Portfolio](https://img.shields.io/badge/Live_Portfolio-akshayks1197.netlify.app-0284c7?style=for-the-badge&logo=netlify&logoColor=white)](https://akshayks1197.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
@@ -14,10 +14,10 @@
 
 ### 🌟 Executive Overview
 
-- 💼 **5+ Years of Proven Impact** translating large-scale claims, loss run portfolios, and operational datasets into executive dashboards and forecasting models[cite: 1].
-- 🎓 **Academic Trajectory:** Prospective M.Sc. Candidate in **International Logistics & Transportation Management** (Hamburg)[cite: 1] | **MBA** (Visvesvaraya Technological University)[cite: 1] | **B.Com** (Bangalore University, Exemplary 8.08 CGPA)[cite: 1].
-- 📍 **Work Status:** Resident in Germany with a **Valid Work Visa (2026–2027)**, available for analyst and consulting roles[cite: 1].
-- 🏆 **Track Record:** 5 Corporate Excellence Awards, including *Most Valued Player*, *Alpha of the Process*, and multi-quarter *Quality Champ*[cite: 1].
+- 💼 **5+ Years of Industry Experience** translating raw claims, loss runs, and operational datasets into executive dashboards and forecasting models.
+- 🎓 **Academic Background:** Prospective M.Sc. in **International Logistics & Transportation Management** (Hamburg) | **MBA** (Visvesvaraya Technological University)[cite: 1] | **B.Com** (Bangalore University, First Class Exemplary).
+- 📍 **Work Authorization:** Resident in Germany with a **Valid Work Visa (2026–2027)**.
+- 🏆 **Track Record:** Recipient of 5 corporate awards including *Most Valued Player*, *Alpha of the Process*, and multiple *Quality Champ* honors.
 
 ---
 
@@ -25,22 +25,22 @@
 
 <div align="left">
 
-#### Business Intelligence & Data Analytics
+#### Business Intelligence & Analytics
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Advanced Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-#### Frameworks & Analytical Capabilities
+#### Methodologies & Core Competencies
 ![Lean Six Sigma](https://img.shields.io/badge/Lean_Six_Sigma-White_Belt-4B5563?style=for-the-badge)
-![Variance Analysis](https://img.shields.io/badge/Analytics-Variance_%26_Trend_Modeling-0284c7?style=for-the-badge)
+![Variance Analysis](https://img.shields.io/badge/Analytics-Variance_%26_Forecasting-0284c7?style=for-the-badge)
 ![Process Automation](https://img.shields.io/badge/Operations-Process_Optimization_%26_Kaizen-059669?style=for-the-badge)
 
 </div>
 
 ---
 
-### 📊 Quantified Impact & Core Focus Areas
+### 📊 Quantified Business Impact
 
 <table>
   <tr>
@@ -48,21 +48,21 @@
       <h4>📈 Experience Modification (XMOD)</h4>
       <ul>
         <li>Managed 10 annual XMOD pools across <b>550+ commercial accounts</b>[cite: 1].</li>
-        <li>Engineered 5-year claims variance reports and premium projections[cite: 1].</li>
+        <li>Delivered 5-year claims variance reports and premium forecasting models[cite: 1].</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🛡️ Captive Portfolio Analytics</h4>
       <ul>
-        <li>Directed monthly exposure and risk stratification reporting for <b>12 captive accounts (860+ members)</b>[cite: 1].</li>
-        <li>Standardized exposure metrics for C-suite reviews[cite: 1].</li>
+        <li>Handled exposure reporting for <b>12 captive accounts (860+ members)</b>[cite: 1].</li>
+        <li>Standardized exposure and risk stratification reporting frameworks[cite: 1].</li>
       </ul>
     </td>
     <td width="33%" valign="top">
-      <h4>⚡ AI Extraction & Automation</h4>
+      <h4>⚡ Process Automation & Quality</h4>
       <ul>
-        <li>Integrated AI document-ingestion pipelines for unstructured policy data[cite: 1].</li>
-        <li>Implemented 10+ Kaizen SOPs, reducing overall turnaround time[cite: 1].</li>
+        <li>Integrated AI ingestion pipelines for unstructured insurance submissions[cite: 1].</li>
+        <li>Implemented 10+ Kaizen SOPs, improving reporting turnaround times[cite: 1].</li>
       </ul>
     </td>
   </tr>
@@ -70,32 +70,32 @@
 
 ---
 
-### 💼 Career Snapshot
+### 💼 Professional Experience
 
-* **Senior Operations Analyst** • *CogniSure Solutions* `Jul 2025 – Feb 2026`[cite: 1]  
-  *Unstructured data ingestion, validation frameworks, and P&C claims intelligence[cite: 1].*
-* **Senior Process Analyst** • *Gallagher Service Center LLP* `Feb 2021 – Jul 2025`[cite: 1]  
-  *XMOD calculations, loss run modeling (LPRA), SME escalations, and mentored 15+ training batches[cite: 1].*
+* **Senior Operations Analyst** • *CogniSure Solutions* `Jul 2025 – Feb 2026
+  *Ingestion workflows, data audits, and US Property & Casualty claims analytics.*
+* **Senior Process Analyst** • *Gallagher Service Center LLP* `Feb 2021 – Jul 2025
+  *XMOD calculations, loss projection analyses (LPRA), SME escalations, and trained 15+ batches.*
 
 ---
 
-### 📜 Verified Credentials
+### 📜 Certifications & Honors
 
-- 🏅 **Certified Data Analyst (Distinction)** — ExcelR[cite: 1]
-- 🏅 **Lean Six Sigma (White Belt)** — Process Improvement & Quality Audits[cite: 1]
-- 🏅 **Certified Corporate Process Trainer** — Training & Knowledge Management[cite: 1]
+- 🏅 **Certified Data Analyst (Distinction)** — ExcelR
+- 🏅 **Lean Six Sigma (White Belt)** — Process Improvement & Quality
+- 🏅 **Certified Corporate Process Trainer** — Training & Development
 
 ---
 
 ### 📈 GitHub Analytics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=0284c7&icon_color=0284c7" alt="Akshay's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=0284c7&icon_color=0284c7" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=0284c7" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <sub>Designed & Developed by Akshay K S • Berlin / Hamburg, Germany[cite: 1]</sub>
+  <sub>Akshay Kasaba Shankaranarayana Rao • Berlin, Germany</sub>
 </div>
