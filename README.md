@@ -47,22 +47,22 @@
     <td width="33%" valign="top">
       <h4>📈 Experience Modification (XMOD)</h4>
       <ul>
-        <li>Managed 10 annual XMOD pools across <b>550+ commercial accounts</b>[cite: 1].</li>
-        <li>Delivered 5-year claims variance reports and premium forecasting models[cite: 1].</li>
+        <li>Managed 10 annual XMOD pools across <b>550+ commercial accounts</b>.</li>
+        <li>Delivered 5-year claims variance reports and premium forecasting models.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>🛡️ Captive Portfolio Analytics</h4>
       <ul>
-        <li>Handled exposure reporting for <b>12 captive accounts (860+ members)</b>[cite: 1].</li>
-        <li>Standardized exposure and risk stratification reporting frameworks[cite: 1].</li>
+        <li>Handled exposure reporting for <b>12 captive accounts (860+ members)</b>.</li>
+        <li>Standardized exposure and risk stratification reporting frameworks.</li>
       </ul>
     </td>
     <td width="33%" valign="top">
       <h4>⚡ Process Automation & Quality</h4>
       <ul>
-        <li>Integrated AI ingestion pipelines for unstructured insurance submissions[cite: 1].</li>
-        <li>Implemented 10+ Kaizen SOPs, improving reporting turnaround times[cite: 1].</li>
+        <li>Integrated AI ingestion pipelines for unstructured insurance submissions.</li>
+        <li>Implemented 10+ Kaizen SOPs, improving reporting turnaround times.</li>
       </ul>
     </td>
   </tr>
@@ -84,15 +84,6 @@
 - 🏅 **Certified Data Analyst (Distinction)** — ExcelR
 - 🏅 **Lean Six Sigma (White Belt)** — Process Improvement & Quality
 - 🏅 **Certified Corporate Process Trainer** — Training & Development
-
----
-
-### 📈 GitHub Analytics & Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&hide_border=true&title_color=0284c7&icon_color=0284c7" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical&hide_border=true&title_color=0284c7" alt="Top Languages" />
-</div>
 
 ---
 
