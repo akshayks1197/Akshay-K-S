@@ -15,7 +15,7 @@
 ### 🌟 Executive Overview
 
 - 💼 **5+ Years of Industry Experience** translating raw claims, loss runs, and operational datasets into executive dashboards and forecasting models.
-- 🎓 **Academic Background:** Prospective M.Sc. in **International Logistics & Transportation Management** (Hamburg) | **MBA** (Visvesvaraya Technological University)[cite: 1] | **B.Com** (Bangalore University, First Class Exemplary).
+- 🎓 **Academic Background:** Prospective M.Sc. in **International Logistics & Transportation Management** (Hamburg) | **MBA** (Visvesvaraya Technological University)| **B.Com** (Bangalore University, First Class Exemplary).
 - 📍 **Work Authorization:** Resident in Germany with a **Valid Work Visa (2026–2027)**.
 - 🏆 **Track Record:** Recipient of 5 corporate awards including *Most Valued Player*, *Alpha of the Process*, and multiple *Quality Champ* honors.
 
