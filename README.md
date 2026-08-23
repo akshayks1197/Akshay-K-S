@@ -6,7 +6,7 @@
   [![Portfolio](https://img.shields.io/badge/Live_Portfolio-akshayks1197.netlify.app-0284c7?style=for-the-badge&logo=netlify&logoColor=white)](https://akshayks1197.netlify.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com)
   [![Email](https://img.shields.io/badge/Email-ksakshay1197%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ksakshay1197@gmail.com)
-  [![Location](https://img.shields.io/badge/Location-Berlin%20%7C%20Hamburg%2C%20Germany-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://akshayks1197.netlify.app)
+  [![Location](https://img.shields.io/badge/Location-Berlin%20%7C%20Germany-10B981?style=for-the-badge&logo=googlemaps&logoColor=white)](https://akshayks1197.netlify.app)
 
 </div>
 
