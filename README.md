@@ -1,7 +1,7 @@
 # Hi, I'm Akshay K S 👋
 ### Senior Business & Data Analyst | Insurance Analytics & Supply Chain
 
-📍 **Berlin / Hamburg, Germany** | 💼 **Valid German Work Visa (2026–2027)**
+📍 **Berlin , Germany** | 💼 **Valid German Work Visa (2026–2027)**
 
 ---
 
